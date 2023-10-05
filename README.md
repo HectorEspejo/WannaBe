@@ -12,3 +12,5 @@ Run the tcpServer script and then the main.py one. Depending on your OS it will 
 [x] Encrypt directories
 
 [ ] Whatever
+
+[ ] Self-destruct
